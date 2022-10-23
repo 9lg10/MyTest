@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.d("show_lg10_git", "onCreate: ")
+        Log.d("show_lg10_gt", "onCreate: ")
     }
 }
