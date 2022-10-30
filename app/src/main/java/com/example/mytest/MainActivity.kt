@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("show_lg10_git", "onCreate: AA")
 
         Log.d("show_lg10_my_test", "onCreate: test")
+
+        Log.e("show_lg10_first", "onCreate: m t f")
     }
 }
