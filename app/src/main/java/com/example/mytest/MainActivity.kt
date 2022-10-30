@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("show_lg10_git", "onCreate:token one")
 
         Log.d("show_lg10_git", "onCreate: AA")
+
+        Log.d("show_lg10_my_test", "onCreate: test")
     }
 }
