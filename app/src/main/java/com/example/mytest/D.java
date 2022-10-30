@@ -6,5 +6,8 @@ public class D {
 
     public void show(){
         Log.d("jkkkk", "show: ");
+
+
+        Log.d("shohuueub", "show: ");
     }
 }
